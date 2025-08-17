@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Mateo
 
-<!--
-**MateoDelgadoU/MateoDelgadoU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Argentina passionate about building efficient and modern applications.
 
-Here are some ideas to get you started:
+- 🖥️ I’ve developed desktop applications using **C#** and **SQL Server**.
+- 🌐 I build responsive web apps using **React** and **TypeScript**.
+- 🐍 I have a strong command of **Python**, having created tools, utilities, and games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working on: https://www.devter.dev**
+
+I enjoy solving real-world problems with clean and scalable code, and I'm always open to learning new technologies.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-PY-GH&layout=compact&theme=tokyonight)
+
+
+## 📫 Let's connect!
+
+- My portfolio: https://mmatdu.dev
+- ✉️ mateo350dk@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/MateoDelgadoUgarte/)
