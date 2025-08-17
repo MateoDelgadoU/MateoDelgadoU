@@ -3,7 +3,7 @@
 I'm a software developer from Argentina passionate about building efficient and modern applications.
 
 - 🖥️ I’ve developed desktop applications using **C#** and **SQL Server**.
-- 🌐 I build responsive web apps using **React** and **TypeScript**.
+- 🌐 I build responsive web apps using **React**, **TypeScript** and **NextJS**.
 - 🐍 I have a strong command of **Python**, having created tools, utilities, and games.
 
 **Currently working on: https://www.devter.dev**
