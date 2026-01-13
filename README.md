@@ -1,20 +1,29 @@
-# Hi there 👋 I'm Mateo
+# Hi there, I'm Mateo 👋
 
-I'm a software developer from Argentina passionate about building efficient and modern applications.
+**Software Developer | Backend Specialist**
 
-- 🖥️ I’ve developed desktop applications using **C#** and **SQL Server**.
-- 🌐 I build responsive web apps using **React**, **TypeScript** and **NextJS**.
-- 🐍 I have a strong command of **Python**, having created tools, utilities, and games.
+Programming Technician at UTN-FRSN (All coursework completed). I am a Full-stack Developer building clean user interfaces with **React** and **Tailwind CSS**, and structured APIs using **Node.js** and **TypeScript**.
 
-**Currently working on: https://www.devter.dev**
+- 🔭 **Project:** [Devter](https://www.devter.dev)
+- 🧠 **Focus:** Modular API design, **NestJS**, and **Python (FastAPI)**.
 
-I enjoy solving real-world problems with clean and scalable code, and I'm always open to learning new technologies.
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 📫 Connect
+
+- 🌍 [Portfolio](https://mmatdu.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/MateoDelgadoUgarte/)
+- ✉️ mateo350dk@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoDelgadoU&layout=compact&theme=tokyonight)
-
-
-## 📫 Let's connect!
-
-- My portfolio: https://mmatdu.dev
-- ✉️ mateo350dk@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/MateoDelgadoUgarte/)
