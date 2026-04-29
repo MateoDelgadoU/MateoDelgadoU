@@ -2,7 +2,7 @@
 
 **Software Developer | Backend Specialist**
 
-Programming Technician at UTN-FRSN (All coursework completed). I am a Full-stack Developer building clean user interfaces with **React** and **Tailwind CSS**, and structured APIs using **Node.js** and **TypeScript**.
+Programming Technician graduated from UTN-FRSN, currently studying Systems Engineering. I am a full-stack developer with a stronger orientation toward backend development, API design, and scalable architecture decisions. On the frontend, I work with Next.js and React to build clean, functional interfaces that stay aligned with product goals. On the backend, I primarily use TypeScript with NestJS and Python to design modular services with clear structure and long-term maintainability. I work with PostgreSQL and Supabase for consistent, production-ready data layers. I have experience building and structuring complete multi-application products, covering both business logic and technical architecture. My focus is delivering robust systems with clean code, clear boundaries, and reliable performance.
 
 - 🔭 **Project:** [Devter](https://www.devter.dev)
 - 🧠 **Focus:** Modular API design, **NestJS**, and **Python (FastAPI)**.
