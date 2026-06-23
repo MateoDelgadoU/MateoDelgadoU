@@ -22,6 +22,6 @@ Programming Technician graduated from UTN-FRSN, currently studying Systems Engin
 
 ### 📫 Connect
 
-- 🌍 [Portfolio](https://mmatdu.dev)
+- 🌍 [Portfolio](https://mmateodelgadou.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/MateoDelgadoUgarte/)
 - ✉️ mateo350dk@gmail.com
