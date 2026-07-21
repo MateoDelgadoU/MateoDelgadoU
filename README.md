@@ -4,7 +4,7 @@
 
 Programming Technician graduated from UTN-FRSN, currently studying Systems Engineering. I am a full-stack developer with a stronger orientation toward backend development, API design, and scalable architecture decisions. On the frontend, I work with Next.js and React to build clean, functional interfaces that stay aligned with product goals. On the backend, I primarily use TypeScript with NestJS and Python to design modular services with clear structure and long-term maintainability. I work with PostgreSQL and Supabase for consistent, production-ready data layers. I have experience building and structuring complete multi-application products, covering both business logic and technical architecture. My focus is delivering robust systems with clean code, clear boundaries, and reliable performance.
 
-- 🔭 **Project:** [Devter](https://www.devter.dev)
+- 🔭 **Project:** [Devter](https://www.devter.space)
 - 🧠 **Focus:** Modular API design, **NestJS**, and **Python (FastAPI)**.
 
 ### 🛠️ Tech Stack
