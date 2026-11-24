@@ -7,7 +7,7 @@ Freelance software developer. I build web applications and APIs with TypeScript 
 - [Devter](https://devter.space/) — Project notes and saved commands for developers.
 - [MatSa Software](https://www.matsasoftware.site/) — Our two-person custom software studio.
 - [Standard Model](https://standard-model.vercel.app/) — An interactive guide to elementary particles. [Source code](https://github.com/MateoDelgadoU/Standard-Model)
-- [Doctor Tangalanga Oficial](https://tangalangaoficial.com.ar/) — A searchable archive of the comedian's calls.
+- [Sosy 3D](https://sosy-3d.vercel.app/) — An interactive 3D solar system explorer with animated orbits.
 
 ## GitHub activity
 
